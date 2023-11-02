@@ -1,6 +1,9 @@
-<img src="https://github.com/benjamin87-design/benjamin87-design/blob/main/assets/image.jpg" alt="benjamin87-design GitHub banner" />
 ### Hi there 👋
+# <Your GitHub Username>
 
+This is my GitHub profile!
+
+![Background Image](<https://github.com/benjamin87-design/benjamin87-design/blob/main/assets/image.jpg>)
 <!--
 **benjamin87-design/benjamin87-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
