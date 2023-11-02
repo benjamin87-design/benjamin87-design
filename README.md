@@ -1,3 +1,4 @@
+<img src="https://github.com/jfversluis/jfversluis/blob/main/assets/header.png" alt="jfversluis GitHub banner" />
 ### Hi there 👋
 
 <!--
