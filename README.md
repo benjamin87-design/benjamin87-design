@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Fehr</h1>
-<h1 align="center">Hi 👋, I'm Benjamin Fehr</h1>
+
 <h3 align="center">I am a Service Engineer for Gear Honing and i like to Code in my free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin87-desing&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin87-desing" /> </p>
