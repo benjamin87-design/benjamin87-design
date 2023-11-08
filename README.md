@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET MAUI**
 
-- 📝 I regularly write articles on [https://tsecblog.onrender.com/](https://tsecblog.onrender.com/)
+- 📝 I regularly write articles on [https://codewhizserviceengineer.onrender.com/](https://codewhizserviceengineer.onrender.com/)
 
 - 📫 How to reach me **fehr.benjamin@gmx.ch**
 
