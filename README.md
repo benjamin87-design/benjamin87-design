@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **fehr.benjamin@gmx.ch**
 
-- 📄 Know about my experiences [https://tsecblog.onrender.com/resumes/](https://tsecblog.onrender.com/resumes/)
+- 📄 Know about my experiences [https://codewhizserviceengineer.onrender.com/](https://codewhizserviceengineer.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
